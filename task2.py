@@ -18,7 +18,7 @@ print("Volume of a Sphere: V = 4/3piR^3")
 
 radius = input("Enter the radius: ")
 
-radius = int(radius)
+radius = float(radius)
 
 volume = 4/3*math.pi*radius**3
 
