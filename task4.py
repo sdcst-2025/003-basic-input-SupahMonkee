@@ -1,5 +1,6 @@
 #! python3
-#
+import math
+
 # Surface area of a cone
 # Find the surface area of a cone given the height and the radius.
 # You will need to ask the user to enter in both variables, and will 
@@ -16,3 +17,5 @@
 # r = 3
 # h = 5
 # sa = 83.2297607912
+
+print("Surface area of a cone")
